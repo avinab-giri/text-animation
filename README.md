@@ -1,1 +1,1 @@
-# text-animation
+# Text Animation
